@@ -28,11 +28,7 @@
     <artifactId>velocity-dep</artifactId>
     <version>1.4</version>
 </dependency>
-	<dependency>
-		<groupId>net.sf.dbdeploy</groupId>
-		<artifactId>dbdeploy</artifactId>
-		<version>2.11.1</version>
-	</dependency>
+
 <dependency>
 	<groupId>com.h2database</groupId>
     <artifactId>h2</artifactId>
