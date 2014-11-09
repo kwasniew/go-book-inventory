@@ -163,8 +163,8 @@
 		<repository>
 			<id>nexus</id>
 			<name>Nexus Repo</name>
-			<!-- <url>http://nexus-server:8081/nexus/content/repositories/releases/</url> -->
-			<url>http://192.168.65.7:8081/nexus/content/repositories/releases/</url>
+			<url>http://nexus-server:8081/nexus/content/repositories/releases/</url>
+			<!-- <url>http://192.168.65.7:8081/nexus/content/repositories/releases/</url> -->
 			<layout>default</layout>
 		</repository>
 	</distributionManagement>
